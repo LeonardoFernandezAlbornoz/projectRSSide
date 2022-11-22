@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IDE</title>
+        <description>News about different IDEs.</description>
+        <link>https://leonardofernandezalbornoz.github.io/projectRSSide/</link>
+        <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+        <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+        <item>
+            <title>Eclipse</title>
+            <link>https://leonardofernandezalbornoz.github.io/projectRSSide/eclipse.html</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Tricks on eclipse</description>
+        </item>
+        <item>
+            <title>NetBeans</title>
+            <link>https://leonardofernandezalbornoz.github.io/projectRSSide/netbeans.html</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Tricks on NetBeans</description>
+        </item>
+        <item>
+            <title>VS Code</title>
+            <link>https://leonardofernandezalbornoz.github.io/projectRSSide/vscode.html</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Tricks on NetBeans</description>
+        </item>
+    </channel>
+</rss>
+    
